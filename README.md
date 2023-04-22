@@ -63,7 +63,7 @@ If you'd like to contribute to the code, thank you! To install the various libra
 required, run (preferably in a virtualenv):
 
 ```bash
-$ pip install -Ur requirements_dev.txt
+$ pip install -Ur requirements.txt
 ```
 
 
