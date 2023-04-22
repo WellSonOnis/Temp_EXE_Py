@@ -63,7 +63,7 @@ If you'd like to contribute to the code, thank you! To install the various libra
 required, run (preferably in a virtualenv):
 
 ```bash
-$ pip install -Ur requirements.txt
+$ pip install requirements.txt
 ```
 
 
@@ -78,7 +78,7 @@ License
 
 - [ENPC](https://enp-constantine.dz)
 - [Chokri Azzouzi](https://www.facebook.com/profile.php?id=100090514185128&mibextid=ZbWKwL)
-
+- [Me](https://github.com/WellSonOnis)
 &copy; 2023 ENPC All Rights Reserved
 
 # Changelog
