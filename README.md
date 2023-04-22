@@ -79,7 +79,7 @@ License
 - [ENPC](https://enp-constantine.dz)
 - [Chokri Azzouzi](https://www.facebook.com/profile.php?id=100090514185128&mibextid=ZbWKwL)
 - [Me](https://github.com/WellSonOnis)
-- 
+
 &copy; 2023 ENPC All Rights Reserved
 
 # Changelog
