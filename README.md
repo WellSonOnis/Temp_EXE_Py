@@ -74,6 +74,12 @@ License
 -------
 
 `Temp_EXE_Py` is distributed under the MIT license.
+## Author
+
+- [ENPC](https://enp-constantine.dz)
+- [Chokri Azzouzi](https://www.facebook.com/profile.php?id=100090514185128&mibextid=ZbWKwL)
+
+&copy; 2023 ENPC All Rights Reserved
 
 # Changelog
 
